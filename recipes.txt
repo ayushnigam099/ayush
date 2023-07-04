@@ -4,5 +4,9 @@ hello
 this is how u can make kheer!
 pizza 
 burger
+
+beans
+biryani
+
 thankyou!
 regards!
